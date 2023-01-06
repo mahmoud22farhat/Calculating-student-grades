@@ -1,0 +1,12 @@
+C:\Users\Al3lamya\Desktop\projects\درجات الطلاب\درجات الطلاب\bin\Debug\درجات الطلاب.exe.config
+C:\Users\Al3lamya\Desktop\projects\درجات الطلاب\درجات الطلاب\obj\Debug\درجات الطلاب.csprojResolveAssemblyReference.cache
+C:\Users\Al3lamya\Desktop\projects\درجات الطلاب\درجات الطلاب\obj\Debug\درجات_الطلاب.Form1.resources
+C:\Users\Al3lamya\Desktop\projects\درجات الطلاب\درجات الطلاب\obj\Debug\درجات_الطلاب.Properties.Resources.resources
+C:\Users\Al3lamya\Desktop\projects\درجات الطلاب\درجات الطلاب\obj\Debug\درجات الطلاب.csproj.GenerateResource.Cache
+C:\Users\Al3lamya\Desktop\projects\درجات الطلاب\درجات الطلاب\bin\Debug\درجات الطلاب.exe
+C:\Users\Al3lamya\Desktop\projects\درجات الطلاب\درجات الطلاب\bin\Debug\درجات الطلاب.pdb
+C:\Users\Al3lamya\Desktop\projects\درجات الطلاب\درجات الطلاب\obj\Debug\درجات الطلاب.exe
+C:\Users\Al3lamya\Desktop\projects\درجات الطلاب\درجات الطلاب\obj\Debug\درجات الطلاب.pdb
+F:\projects\درجات الطلاب\درجات الطلاب\bin\Debug\درجات الطلاب.exe.config
+F:\projects\درجات الطلاب\درجات الطلاب\obj\Debug\درجات الطلاب.exe
+F:\projects\درجات الطلاب\درجات الطلاب\obj\Debug\درجات الطلاب.pdb
